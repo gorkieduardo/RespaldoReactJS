@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "nombre": "Valor cronológico del dinero",
+    "intro": "El tiempo es dinero, es una frasej que refleja con nitidez el valor cronológico del dinero en el tiempo.",
+    "imagen": "modelo1",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 1,
+    "nombre": "Tasa de interés simple",
+    "intro": "Mas que la tasa tominal, debemos conocer la tasa real efectiva",
+    "imagen": "modelo4",
+    "descripcion": "La tasa de interés simple....iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 2,
+    "nombre": "Interés compuesto",
+    "intro": "Un concepto fundamental para comprender el costo d oportunidad de una inversión",
+    "imagen": "modelo7",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 3,
+    "nombre": "Valor presente",
+    "intro": "El interés simple es la forma básica de la tasa de interés y su cálculo es lineal",
+    "imagen": "modelo2",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 4,
+    "nombre": "Tasa nominal y tasa efectiva",
+    "intro": "La amoritación de préstamo, otro concepto clave en las matemáticas financieras.",
+    "imagen": "modelo8",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 5,
+    "nombre": "Tasa efectiva y tasa real",
+    "intro": "La comprensión de la tasa efectiva es clave en las negociaciones financiers.",
+    "imagen": "modelo8",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 6,
+    "nombre": "Anualidades",
+    "intro": "Las anualidades se caracterizan por pagos perióicos que devengan una tasa de interés",
+    "imagen": "modelo3",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 7,
+    "nombre": "Valor futuro de una anualidad",
+    "intro": "El concepto clave de las matemáticas financiera, comprendiendo esto, se comprenderá todo",
+    "imagen": "modelo3",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 8,
+    "nombre": "Fondo de amortización",
+    "intro": "Es el mismo concepto de Valor presente extendido a una serie de pagos",
+    "imagen": "modelo7",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 9,
+    "nombre": "Valor presente de una anualidad",
+    "intro": "Es el mismo concepto de Valor presente extendido a una serie de pagos",
+    "imagen": "modelo7",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 10,
+    "nombre": "Valor presente neto (VPN)",
+    "intro": "Es el mismo concepto de Valor presente extendido a una serie de pagos",
+    "imagen": "modelo7",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  },
+  {
+    "id": 11,
+    "nombre": "Tasa intrna de retorno (TIR)",
+    "intro": "Es el mismo concepto de Valor presente extendido a una serie de pagos",
+    "imagen": "modelo7",
+    "descripcion": "Mauris eu mi vitae dui imperdiet finibus id id orci. Morbi iaculis blandit augue rutrum laoreet. Etiam maximus bibendum nisi id tincidunt. Donec laoreet purus eleifend, semper urna quis, auctor felis. Etiam ultricies quis urna sed porttitor. Praesent sit amet dolor orci. Nam lacus purus, varius sit amet enim vitae, lobortis auctor diam. Morbi in tempor arcu. Aliquam efficitur lacus in ante viverra dapibus."
+  }
+]

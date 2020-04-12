@@ -1,0 +1,2 @@
+este proyecto es del curso de React,el curso acelerado, que hace un repaso de todo reac y tiene varias lecciones de interés.
+Corresponde al curso APRENDIENDO REACT JS, de Migue Angel-

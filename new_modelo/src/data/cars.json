@@ -1,0 +1,22 @@
+[
+  {
+    "id": "001",
+    "name": "Interés simple",
+    "company": "El interés simple es el interés mas básico que exist"
+  },
+  {
+    "id": "002",
+    "name": "Interés compuesto",
+    "company": "El interés copuesto es crucial porque es el mas imortante"
+  },
+  {
+    "id": "003",
+    "name": "VP",
+    "company": "Valor presente"
+  },
+  {
+    "id": "004",
+    "name": "Tasa efetiva",
+    "company": "La tasa efectiva es..."
+  }
+]
